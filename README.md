@@ -15,22 +15,18 @@ Esses prompts orientam o assistente sobre como responder de maneira coerente e p
 
 ## 🧪 Informações
 
-Você pode testar o zap-gpt que está ativo neste [WhatsApp](https://wa.me/5551981995600)  </br>
-Confira mais detalhes do projeto no meu [Instagram](https://www.instagram.com/marcusdev_)
 
-## 🎉 Zap-GPT-Plus
 
-O **Zap-GPT-Plus** é uma versão aprimorada do Zap-GPT, oferecendo diversas funcionalidades extras e maior performance. Diferente de seu antecessor, ele não utiliza o wppconnect, corrigindo diversos bugs e problemas.
+## 🎉 Zap-turbo-plus
 
-### Funcionalidades Diferenciais
-- 🗣️ **Entendimento de Áudio e Imagem**: Agora a IA pode entender e responder a mensagens de áudio e imagem.
-- ⏸️ **Controle de Conversas**: É possível parar a IA em conversas específicas.
-- 🎯 **Respostas Personalizadas**: Você pode escolher quem a IA deve ou não responder.
-- 🔒 **Atualizações de Segurança**: Todas as atualizações de segurança mais recentes estão incluídas.
-- ⌨️ **Simulação de Digitação**: Para uma experiência mais humana, a IA simula a digitação.
-- 🚫 **Anti-spam / Anti-travazap**: Proteção contra spam e ataques de travamento.
+O **Zap-Turbo-plus** é uma versão atualizada para o mercado Europeu que tem uma legislação consolidade sobre LGPD
 
-Com o **Zap-GPT-Plus**, você tem mais controle, segurança e eficiência! 🚀
+### Funcionalidades Diferenciais (Atualização em breve)
+- 🗣️ 
+- ⏸️ 
+- 🎯 
+- 🔒 
+- ⌨️ 
+- 🚫 
 
-Adquira agora [clicando aqui!](https://pay.kiwify.com.br/akcGXnQ) </br>
-Tire suas dúvidas via [WhatsApp](https://wa.me/5551981995600)  </br>
+
